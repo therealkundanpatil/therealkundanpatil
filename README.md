@@ -67,7 +67,6 @@
 
 
 ## ⚙️ &nbsp;GitHub Analytics
-
 </br>
 <p align="center">
 <a href="https://github.com/therealkundanpatil">
@@ -76,17 +75,28 @@
 </a>
 </p>
 
+
+<br/>
+
 ## 📝 &nbsp;Job Status
+</br>
 
 ***Open to Work***
 
 </br>
 
-## 🤝🏻 Connect with me 
+## 🤝🏻 &nbsp;Connect with me 
+</br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kundan%20Patil-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kundan-patil-471843163/)](https://www.linkedin.com/in/kundan-patil-471843163/)
 [![GMail Badge](https://img.shields.io/badge/-kp28021996@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white")]("mailto:kp28021996@gmail.com")
 
+
+</br>
+</br>
+
+## 🧐 &nbsp;Activity 
+</br>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=therealkundanpatil)
 
