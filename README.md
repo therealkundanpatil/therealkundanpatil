@@ -55,11 +55,10 @@
   ![Intellij Idea](https://img.shields.io/badge/-Intellij--IDEA-333333?style=flat&logo=Intellij-IDEA&logoColor=#000000)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=#2C2255)
   ![PyCharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=PyCharm&logoColor=#000000)
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter--Notebook-333333?style=flat&logo=Jupyter&logoColor=#F37626)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
   ![Microsoft Office Suite](https://img.shields.io/badge/-Microsoft--Office-333333?style=flat&logo=microsoft-office&logoColor=#D83B01)
   ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=Netlify&logoColor=#00C7B7)
-  ![Microsoft Office Suite](https://img.shields.io/badge/-Microsoft--Office-333333?style=flat&logo=microsoft-office&logoColor=#D83B01)
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter--Notebook-333333?style=flat&logo=Jupyter&logoColor=#F37626)
+  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
 
 <br/> 
 </p>  
